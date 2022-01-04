@@ -50,6 +50,6 @@
 + Developed a social networking interface for University of Calgary students following a User-Centered System Design process which included task-centered system design and prototyping 
 + **Tools:** C#, XAML, VS 2019, WPF
 
-### Paper Management Application
+### [Paper Management Application](https://github.com/salimk1/paper-management-application)
 + Followed an Agile Scrum software development process with a team of six to develop a Java desktop application that helps researchers upload papers to be assessed by reviewers and editors, and managed by administrators 
 + **Tools:** Java, Eclipse
