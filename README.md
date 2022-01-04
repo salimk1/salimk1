@@ -37,16 +37,16 @@
 + **Operating System:** Linux, Window
 
 ## 💡 Notable Projects
-### Machine Learning Commute Time Prediction Models
+### [Machine Learning Commute Time Prediction Models](https://github.com/salimk1/machine-learning-models)
 + Utilized the distributed cluster computing platform Spark to develop scalable machine learning models (Linear Regression, Decision Tree, and Random Forest) to predict Deerfoot Trail commute time based on weather and traffic data
 + **Tools:** Python, Spark
 
-### Journal Submission System
+### [Journal Submission System](https://github.com/salimk1/journal-submission-system)
 + A full-stack project that used the Laravel framework to develop a website, an API, and a MySQL database 
 + The system facilitates the complete process of publishing a research paper, from the first draft to publication, with unique functionality for five types of users
 + **Tools:** Full-Stack Development, VS Code
 
-### Social Networking Interface
+### [Social Networking Interface](https://github.com/salimk1/social-networking-interface) 
 + Developed a social networking interface for University of Calgary students following a User-Centered System Design process which included task-centered system design and prototyping 
 + **Tools:** C#, XAML, VS 2019, WPF
 
