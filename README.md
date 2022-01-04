@@ -53,3 +53,7 @@
 ### [Paper Management Application](https://github.com/salimk1/paper-management-application)
 + Followed an Agile Scrum software development process with a team of six to develop a Java desktop application that helps researchers upload papers to be assessed by reviewers and editors, and managed by administrators 
 + **Tools:** Java, Eclipse
+
+### [Banking Application](https://github.com/salimk1/banking-application)
++ A Java desktop application that helps users better organize their finances.
++ **Tools:** Java, Eclipse, Scene Builder
