@@ -38,7 +38,7 @@
 
 ## 💡 Notable Projects
 ### [Machine Learning Commute Time Prediction Models](https://github.com/salimk1/machine-learning-models)
-+ Utilized the distributed cluster computing platform Spark to develop scalable machine learning models (Linear Regression, Decision Tree, and Random Forest) to predict Deerfoot Trail commute time based on weather and traffic data
++ Utilized the distributed cluster computing platform Spark to develop scalable machine learning models (Linear Regression and Decision Tree) to predict Deerfoot Trail commute time based on weather and traffic data
 + **Tools:** Python, Spark
 
 ### [Journal Submission System](https://github.com/salimk1/journal-submission-system)
@@ -55,5 +55,5 @@
 + **Tools:** Java, Eclipse
 
 ### [Banking Application](https://github.com/salimk1/banking-application)
-+ A Java desktop application that helps users better organize their finances.
++ A Java desktop application that helps users better organize their finances
 + **Tools:** Java, Eclipse, Scene Builder
