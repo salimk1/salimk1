@@ -34,7 +34,7 @@
 + **IDE:** Code Blocks, Eclipse, RStudio, VS 2019, VS Code 
 + **Platform:** Hadoop, Scene Builder, Spark, WPF 
 + **Version Control:** Git, GitHub, GitLab 
-+ **Operating System:** Linux, Window
++ **Operating System:** Linux, Windows
 
 ## 💡 Notable Projects
 ### [Machine Learning Commute Time Prediction Models](https://github.com/salimk1/machine-learning-models)
