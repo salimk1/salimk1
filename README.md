@@ -30,9 +30,9 @@
 ### Software Experience 
 + **Programming Language** 
   + Intermediate Level: C/C++, Java, Python 
-  + Beginner Level: Assembly Language, C#, Haskell, R, XAML 
-+ **IDE:** Code Blocks, Eclipse, RStudio, VS 2019, VS Code 
-+ **Platform:** Hadoop, Scene Builder, Spark, WPF 
+  + Beginner Level: Assembly Language, C#, Haskell
++ **IDE:** Eclipse, Visual Studio
++ **Software:** Excel, Spark 
 + **Version Control:** Git, GitHub, GitLab 
 + **Operating System:** Linux, Windows
 
@@ -48,7 +48,7 @@
 
 ### [Social Networking Interface](https://github.com/salimk1/social-networking-interface) 
 + Developed a social networking interface for University of Calgary students following a User-Centered System Design process which included task-centered system design and prototyping 
-+ **Tools:** C#, XAML, VS 2019, WPF
++ **Tools:** C#, VS 2019, WPF
 
 ### [Paper Management Application](https://github.com/salimk1/paper-management-application)
 + Followed an Agile Scrum software development process with a team of six to develop a Java desktop application that helps researchers upload papers to be assessed by reviewers and editors, and managed by administrators 
