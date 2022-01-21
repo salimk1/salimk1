@@ -29,10 +29,10 @@
 
 ### Software Experience 
 + **Programming Language** 
-  + Intermediate Level: C/C++, Java, Python 
-  + Beginner Level: Assembly Language, C#, Haskell
+  + Advanced Level: C/C++, Java, Python 
+  + Intermediate Level: Assembly Language, C#, Haskell
 + **IDE:** Eclipse, Visual Studio
-+ **Software:** Excel, Spark 
++ **Software:** Office 365, Excel, Spark 
 + **Version Control:** Git, GitHub, GitLab 
 + **Operating System:** Linux, Windows
 
