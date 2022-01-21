@@ -32,7 +32,7 @@
   + Advanced Level: C/C++, Java, Python 
   + Intermediate Level: Assembly Language, C#, Haskell
 + **IDE:** Eclipse, Visual Studio
-+ **Software:** Office 365, Excel, Spark 
++ **Software:** Office 365, Hadoop, Spark 
 + **Version Control:** Git, GitHub, GitLab 
 + **Operating System:** Linux, Windows
 
