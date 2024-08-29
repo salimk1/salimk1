@@ -2,6 +2,7 @@
 
 ## Table of Contents
 + Contact Information
++ Work Experience
 + Education
 + Technical Skills
 + Notable Projects
@@ -9,16 +10,29 @@
 ## 📫 Contact Information
 + Email: salim.kassouri1@ucalgary.ca
 
+## 👔 Work Experience
+
+### IT Analyst Co-op 
+**Alberta Health Services, Calgary, Canada**  
+*Sep 2022 – July 2023*
+
+- Achieved certification in Epic Resolute Hospital Billing Administration and facilitated the Connect Care launch in Alberta by managing and resolving tickets using ServiceNow.
+- Configured and managed Hospital Billing System Definitions (HSD) within Hyperspace to create custom billing profiles and build account workqueues, improving the efficiency and accuracy of billing processes through automated rules and procedures.
+- Collaborated on developing a Python program that automated the sorting of AHS invoice statements, resulting in a labor savings of 1.5 Full-Time Equivalents (FTE).
+
+### Developer Co-op 
+**The Royal Bank of Canada, Calgary, Canada**  
+*May 2022 – Aug 2022*
+
+- Developed and optimized a data preprocessing pipeline to prepare data for machine learning models using Python.
+- Implemented and tested various deep learning models to extract key features for an address-only property valuator application.
+- Leveraged Optuna to automate the hyperparameter optimization process, improving model performance.
+
 ## 🎓 Education
-### BSc Computer Science, Software Engineering
+### BSc Computer Science
 + Currently pursuing a BSc Computer Science with a Software Engineering concentration
 + The University of Calgary, Canada
 + Sep 2018 to Present
-
-### A-Level Certificates
-+ A-Level certificates in Computer Science, Mathematics, Physics, Chemistry and Biology
-+ The British School of Bahrain, Bahrain
-+ Sep 2016 to Jun 2018
 
 ## 💻 Technical Skills
 ### Full-Stack Development 
