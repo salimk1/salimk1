@@ -1,14 +1,8 @@
 <h1 align="center"><b>Salim Kassouri</b></h1>
 
-## Table of Contents
-+ Contact Information
-+ Work Experience
-+ Education
-+ Technical Skills
-+ Notable Projects
-
-## 📫 Contact Information
-+ Email: salim.kassouri1@ucalgary.ca
+<p align="center">
+  📫 <a href="mailto:salim.kassouri1@ucalgary.ca">salim.kassouri1@ucalgary.ca</a>
+</p>
 
 ## 👔 Work Experience
 
