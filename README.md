@@ -29,10 +29,12 @@
 - Leveraged Optuna to automate the hyperparameter optimization process, improving model performance.
 
 ## 🎓 Education
-### BSc Computer Science
-+ Currently pursuing a BSc Computer Science with a Software Engineering concentration
-+ The University of Calgary, Canada
-+ Sep 2018 to Present
+
+### B.Sc. Computer Science, Internship Program with Distinction  
+**The University of Calgary, Calgary, Canada**  
+*Sep 2018 – Feb 2024*
+
+- Graduating GPA: 3.7 / 4.0
 
 ## 💻 Technical Skills
 ### Full-Stack Development 
