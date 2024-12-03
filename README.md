@@ -35,11 +35,11 @@
 + **Database:** MySQL 
 
 ### Software Experience 
-+ **Programming Language:** C/C++, Java, Python, Assembly Language, C#, Haskell
-+ **IDE:** Eclipse, Visual Studio
++ **Programming Languages:** C/C++, Java, Python, Assembly Language, C#, Haskell
++ **IDEs:** Eclipse, Visual Studio
 + **Software:** Office 365, Hadoop, Spark 
 + **Version Control:** Git, GitHub, GitLab 
-+ **Operating System:** Linux, Windows
++ **Operating Systems:** Linux, Windows
 
 ## 💡 Notable Projects
 ### [Machine Learning Commute Time Prediction Models](https://github.com/salimk1/machine-learning-models)
