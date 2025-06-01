@@ -1,7 +1,7 @@
 <h1 align="center"><b>Salim Kassouri</b></h1>
 
 <p align="center">
-  📫 <a href="mailto:salim.kassouri1@ucalgary.ca">salim.kassouri1@ucalgary.ca</a>
+  📫 <a href="mailto:salim.kassouri@outlook.com">salim.kassouri@outlook.com</a>
 </p>
 
 ## 💻 Technical Skills
